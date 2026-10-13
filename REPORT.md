@@ -4,10 +4,10 @@
 defend any of this without your code in front of you — write only what you
 can actually explain.*
 
-- **Name**:
-- **Student ID**:
-- **Email**:
-- **Group**: [BBADBA 5A | BBADBA 5B | PPLEDBA 5A | BDBA 3A]
+- **Name**: María Fernandez Gomez-Monche
+- **Student ID**: 19784
+- **Email**: mfernandezg.ieu2022@student.ie.edu
+- **Group**: [BBADBA 5B]
 
 ## Dataset
 
